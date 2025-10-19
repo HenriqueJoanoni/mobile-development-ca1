@@ -74,8 +74,6 @@ Main features:
 
 ## Screenshots
 
-*You can add screenshots here to showcase your apps. For example:*
-
 | Attendance UI | Scrollable List |
 |:-------------:|:--------------:|
 | ![attendance-app](img/edusense-project.png) | ![scrollable-list](img/scrollable-list.png) |
