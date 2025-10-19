@@ -13,16 +13,16 @@ object DataSource {
      */
     fun getSampleItems(): List<ListItem> {
         return listOf(
-            ListItem(1, "Title 1", "Subtitle 1", R.drawable.image1),
-            ListItem(2, "Title 2", "Subtitle 2", R.drawable.image2),
-            ListItem(3, "Title 3", "Subtitle 3", R.drawable.image3),
-            ListItem(4, "Title 4", "Subtitle 4", R.drawable.image4),
-            ListItem(5, "Title 5", "Subtitle 5", R.drawable.image5),
-            ListItem(6, "Title 6", "Subtitle 6", R.drawable.image6),
-            ListItem(7, "Title 7", "Subtitle 7", R.drawable.image7),
-            ListItem(8, "Title 8", "Subtitle 8", R.drawable.image8),
-            ListItem(9, "Title 9", "Subtitle 9", R.drawable.image9),
-            ListItem(10, "Title 10", "Subtitle 10", R.drawable.image10),
+            ListItem(1, "Morning Dew", "Fresh start", R.drawable.image1),
+            ListItem(2, "City Lights", "Night skyline", R.drawable.image2),
+            ListItem(3, "Forest Path", "Woodland trail", R.drawable.image3),
+            ListItem(4, "Mountain Peak", "High altitude", R.drawable.image4),
+            ListItem(5, "Calm Lake", "Reflective water", R.drawable.image5),
+            ListItem(6, "Desert Dunes", "Sandy landscape", R.drawable.image6),
+            ListItem(7, "Bloom Garden", "Spring flowers", R.drawable.image7),
+            ListItem(8, "Snowy Field", "Winter silence", R.drawable.image8),
+            ListItem(9, "Old Town", "Historic streets", R.drawable.image9),
+            ListItem(10, "Ocean Voyage", "Open sea", R.drawable.image10),
         )
     }
 
