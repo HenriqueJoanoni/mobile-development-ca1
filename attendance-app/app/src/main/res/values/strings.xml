@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">EdusenseProject</string>
+    <string name="calculate_presence">Days Present</string>
+    <string name="days_absent">Days Absent</string>
+    <string name="attendance_amount">Attendance Level: %s</string>
+    <string name="days_present">Days Present</string>
+</resources>
