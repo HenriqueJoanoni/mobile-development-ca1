@@ -25,13 +25,13 @@ class ExampleInstrumentedTest {
 
     @Test
     fun clickingCard_expandsAndShowsSubtitle() {
-        // Ensure the title is visible
-        composeTestRule.onNodeWithText("Title 1").assertIsDisplayed()
+        /** Ensure the title is visible */
+        composeTestRule.onNodeWithText("Morning Dew").assertIsDisplayed()
 
-        // Click the title (card) to toggle expansion
-        composeTestRule.onNodeWithText("Title 1").performClick()
+        /** Click the title (card) to toggle expansion */
+        composeTestRule.onNodeWithText("Morning Dew").performClick()
 
-        // After click, subtitle should be visible
-        composeTestRule.onNodeWithText("Subtitle 1").assertIsDisplayed()
+        /** After click, subtitle should be visible */
+        composeTestRule.onNodeWithText("Fresh start").assertIsDisplayed()
     }
 }
